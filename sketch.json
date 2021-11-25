@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "esp8266:esp8266:wifinfo:ESPModule=ESP12,FlashFreq=40,baud=115200,dbg=Disabled,eesz=1M,exception=disabled,ip=lm2f,lvl=None____,vt=flash,wipe=none,xtal=80",
+    "name": "ESP8266 WifInfo",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
